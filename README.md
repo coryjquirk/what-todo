@@ -17,5 +17,5 @@ install dependencies:
     - connects React app to back end
 
 starting development server app: 
-1. in /server `nodemon start'  
+1. in /server `nodemon start`  
 2. in /client `npm start`
